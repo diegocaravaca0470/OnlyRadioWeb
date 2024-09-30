@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+body{
+    background-color: #2B3E4C;
+}
+.imagenfondo img{
+    position: relative;
+    float: left;
+    width: 100%;
+}
+body h1{
+   display:flow-root;
+   position: relative;    
+    top: 2em;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 3em;
+    color: #E6C229;
+}
